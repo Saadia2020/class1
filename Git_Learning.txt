@@ -1,0 +1,19 @@
+git clone
+git branch
+git status
+git add
+git commit
+git push
+git pull
+git fetch
+git merge
+Merge Request/Pull Request
+git history
+git log
+
+
+Create account on Github
+Create one repo in github
+Try to add/commit/push some files in that repo by using git
+Access token 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
+password: saadiaasad2020
