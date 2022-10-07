@@ -1,0 +1,14 @@
+directory path --- pwd
+directory change --- cd
+directory list -- ls -l
+directory backward -- cd ..
+multiple backward cd ../../../../
+go to home directly just tyoe "cd"
+retur to previous directory "cd -"
+file remove -- rm -f filename
+directory remor -- rm -rf directoryname
+ctrl+c to cancel any command
+to check what is in the file --- cat filename
+to copy file --- cp dir/filename .
+to copy file from distant source we can do cp ../../../ depend on the location of directory
+
