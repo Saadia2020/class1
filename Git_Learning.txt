@@ -10,10 +10,22 @@ git merge
 Merge Request/Pull Request
 git history
 git log
-
+git init -- creates a new git repository
+git checkout --- in git checout means cloning [The difference between the two commands is that clone works to fetch code from a remote repository, 
+alternatively checkout works to switch between versions of code already on the local system.]
 
 Create account on Github
 Create one repo in github
 Try to add/commit/push some files in that repo by using git
 Access token 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
 password: saadiaasad2020
+
+
+
+Create a new branch with name "test"
+push somefiles in that branch 
+then create MR/PR 
+merge your code in Master
+
+create a copy of your remote repo into local
+Create a new branch from local
