@@ -12,3 +12,5 @@ to check what is in the file --- cat filename
 to copy file --- cp dir/filename .
 to copy file from distant source we can do cp ../../../ depend on the location of directory
 
+
+
